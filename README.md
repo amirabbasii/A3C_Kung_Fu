@@ -1,2 +1,3 @@
 # Play_Kung-Fu
-![caption](Video.mp4)
+<img src="video.gif" width="40" height="40" />
+
